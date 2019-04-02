@@ -1,0 +1,14 @@
+D:\EF Demo\bin\Debug\netcoreapp2.2\EF Demo.deps.json
+D:\EF Demo\bin\Debug\netcoreapp2.2\EF Demo.runtimeconfig.json
+D:\EF Demo\bin\Debug\netcoreapp2.2\EF Demo.runtimeconfig.dev.json
+D:\EF Demo\bin\Debug\netcoreapp2.2\EF Demo.dll
+D:\EF Demo\bin\Debug\netcoreapp2.2\EF Demo.pdb
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.csprojAssemblyReference.cache
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.csproj.CoreCompileInputs.cache
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.RazorAssemblyInfo.cache
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.RazorAssemblyInfo.cs
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.AssemblyInfoInputs.cache
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.AssemblyInfo.cs
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.RazorTargetAssemblyInfo.cache
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.dll
+D:\EF Demo\obj\Debug\netcoreapp2.2\EF Demo.pdb
